@@ -1,4 +1,3 @@
-![ss2](https://github.com/rishikeshm123/My-portfolio-Website/assets/105847924/eee7dd31-7152-403f-89fa-bcc6c1ddab7d)Key Accomplishments:
 
 Developed and deployed a variety of web applications using Flask, showcasing a beginner understanding of web development principles. <br>
 Integrated Flask with HTML templates to achieve a consistent and visually appealing design across multiple pages.<br>
